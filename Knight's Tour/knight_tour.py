@@ -1,4 +1,4 @@
-# Author Names: Isabella Stephens, Sosan Wahid, Andrew
+# Author Names: Isabella Stephens, Sosan Wahid, Andrew Kivrak
 # Created: 23 November 2022
 # Updated: 12 December 2022
 
