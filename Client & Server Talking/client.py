@@ -1,3 +1,7 @@
+# Author Names: Isabella Stephens, Sosan Wahid, Andrew Kivrak
+# Created: October 2022
+# Updated: November 2022
+
 import threading
 import socket
 
