@@ -1,3 +1,7 @@
+# Author Names: Isabella Stephens, Sosan Wahid, Andrew Kivrak
+# Created: November 2022
+# Updated: November 2022
+
 from subprocess import Popen, PIPE
 from multiprocessing import Process
 import multiprocessing
